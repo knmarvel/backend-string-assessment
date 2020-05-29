@@ -1,10 +1,8 @@
-# Kenzie Academy: Strings Assignment
-For this assessment, you'll be completing some string manipulation functions within the string1.py and string2.py files.
+![Kano's logo(./kanoaslogo.png)]
 
-There is some light dependency on knowing how
-[Functions](https://docs.python.org/2/tutorial/controlflow.html#defining-functions)
-work in python in terms of argument passing and return values, but you should
-be able to figure it out as you go.
+
+# Kano's Strings Assignment for Kenzie Academy
+> Simple string manipulation programs.
 
 [string1.py](./string1.py) -- Complete the string functions in string1.py,
 based on your knowledge of Python strings, indexing, slicing, and methods.
